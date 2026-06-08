@@ -132,6 +132,7 @@
 | **[AutoGen](https://github.com/microsoft/autogen)** | Microsoft’s multi-agent framework for orchestrating complex AI workflows | ⭐ 57k | CC-BY-4.0 |
 | **[CrewAI](https://github.com/crewAIInc/crewAI)** | Framework for orchestrating role-playing autonomous AI agents | ⭐ 48k | MIT |
 | **[Activepieces](https://github.com/activepieces/activepieces)** | Open-source no-code automation with MCP support and self-hosting | ⭐ 22k | — |
+| **[TWZRD Agent Intel](https://intel.twzrd.xyz/)** | Trust scoring MCP server — verify AI agent wallet identity before x402 micropayments in legal ops workflows | Free MCP | — |
 
 ---
 
